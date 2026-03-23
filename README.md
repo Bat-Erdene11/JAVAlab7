@@ -11,4 +11,5 @@
 
 ## Author
 Э.Бат-Эрдэнэ
-![alt text](image.png)
+
+<img width="455" height="328" alt="image" src="https://github.com/user-attachments/assets/5145c81a-febf-4d0d-b7f7-588860474958" />
